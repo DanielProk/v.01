@@ -1,0 +1,21 @@
+﻿  Failai.cpp
+  main.cpp
+C:\Users\denci\source\repos\project2\project2\Failai.h(6,6): error C2182: 'Data_read': this use of 'void' is not valid
+C:\Users\denci\source\repos\project2\project2\Failai.h(6,16): error C2065: 'string': undeclared identifier
+C:\Users\denci\source\repos\project2\project2\Failai.h(6,23): error C2146: syntax error: missing ')' before identifier 'FailoVardas'
+C:\Users\denci\source\repos\project2\project2\main.cpp(54,3): error C2064: term does not evaluate to a function taking 2 arguments
+  mix.cpp
+  mylib.cpp
+C:\Users\denci\source\repos\project2\project2\Failai.h(6,6): error C2182: 'Data_read': this use of 'void' is not valid
+C:\Users\denci\source\repos\project2\project2\Failai.h(6,16): error C2065: 'string': undeclared identifier
+C:\Users\denci\source\repos\project2\project2\Failai.h(6,23): error C2146: syntax error: missing ')' before identifier 'FailoVardas'
+C:\Users\denci\source\repos\project2\project2\mylib.cpp(54,64): warning C4244: 'return': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\denci\source\repos\project2\project2\mylib.cpp(58,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\denci\source\repos\project2\project2\mylib.cpp(60,10): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\denci\source\repos\project2\project2\mylib.cpp(63,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\denci\source\repos\project2\project2\mylib.cpp(64,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
